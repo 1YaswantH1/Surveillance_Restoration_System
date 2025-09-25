@@ -1,0 +1,7 @@
+venv/
+.idea/
+video/
+!test/1.test.mp4
+!test/2.test.mp4
+test/
+*.mp4
