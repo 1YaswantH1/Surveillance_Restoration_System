@@ -1,12 +1,27 @@
 # Smart Surveillance Restoration System
 
 ## Surveillance Restoration Results
+<table>
+<tr>
+<td align="center">
 
-### Before Enhancement
-[![Before Enhancement](Results/Before%20Enhancing%20Thumbnail.png)](https://youtu.be/a-a-rn-Ys3c)
+<b>Before Enhancement</b><br>
+<a href="https://youtu.be/a-a-rn-Ys3c">
+  <img src="Results/Before%20Enhancing%20Thumbnail.png" width="400">
+</a>
 
-### After Enhancement
-[![After Enhancement](Results/After%20Enhancing%20thumbnail.png)](https://youtu.be/qb4xUp7SAjk)
+</td>
+<td align="center">
+
+<b>After Enhancement</b><br>
+<a href="https://youtu.be/qb4xUp7SAjk">
+  <img src="Results/After%20Enhancing%20thumbnail.png" width="400">
+</a>
+
+</td>
+</tr>
+</table> 
+
 ## Abstract -
 
 Surveillance videos are critical for forensic investigations but often suffer from quality issues such as blur, low lighting, damaged frames, and background noise, rendering them unreliable. Our solution take the video as input split the video based on the motion that is send to the Model which trained Scale invarient feature extraction(same photo of object from diffrent devices may not show the same image they show different view of same object so model trained on same patch to reduce the parameter and beter generalisation) to enhance the video.
