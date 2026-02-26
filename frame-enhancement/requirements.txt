@@ -1,0 +1,7 @@
+imageio==2.37.0
+numpy==2.1.0
+Pillow==11.3.0
+scipy==1.16.1
+tensorflow==2.19.0
+
+# python version used Python 3.11.6
