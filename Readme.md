@@ -2,7 +2,7 @@
 
 ## Abstract -
 
-Surveillance videos are critical for forensic investigations but often suffer from quality issues such as blur, low lighting, damaged frames, and background noise, rendering them unreliable. Our solution take the Vedio as input split the vedio based on the motion that is send to the Model which trained Scale invarient feature extraction(same photo of object from diffrent devices may not show the same image they show different view of same object so model trained on same patch to reduce the parameter and beter generalisation) to enhance the vedio.
+Surveillance videos are critical for forensic investigations but often suffer from quality issues such as blur, low lighting, damaged frames, and background noise, rendering them unreliable. Our solution take the video as input split the video based on the motion that is send to the Model which trained Scale invarient feature extraction(same photo of object from diffrent devices may not show the same image they show different view of same object so model trained on same patch to reduce the parameter and beter generalisation) to enhance the video.
 
 ## Instruction to use (Setup)-
 
