@@ -1,7 +1,7 @@
 ## System Architecture
 
 <p align="center">
-  <img src="Execution_Workflow.png" width="80% >
+  <img src="Execution_Workflow.png" height="80% >
 </p> 
 
     
