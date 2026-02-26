@@ -19,8 +19,15 @@
 <br/>
 
 
-#### 5. Test the provided pre-trained models
+#### 5. Test the provided pre-trained models ( By default it takes input from the /input_images )
 
 ```bash
 python test_model.py 
 ```
+
+#### 6. To provide the custom location of input folder to the model 
+
+```bash
+python3 test_model.py "../human_detection/merged_results/<video_images>"
+```
+
