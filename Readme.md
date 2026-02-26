@@ -3,10 +3,10 @@
 ## Surveillance Restoration Results
 
 ### Before Enhancement
-[![Before Enhancement](https://img.youtube.com/vi/a-a-rn-Ys3c/hqdefault.jpg)](https://youtu.be/a-a-rn-Ys3c)
+[![Before Enhancement](Results/Before%20Enhancing%20Thumbnail.png)](https://youtu.be/a-a-rn-Ys3c)
 
 ### After Enhancement
-[![After Enhancement](https://img.youtube.com/vi/qb4xUp7SAjk/hqdefault.jpg)](https://youtu.be/qb4xUp7SAjk)
+[![After Enhancement](Results/After%20Enhancing%20thumbnail.png)](https://youtu.be/qb4xUp7SAjk)
 ## Abstract -
 
 Surveillance videos are critical for forensic investigations but often suffer from quality issues such as blur, low lighting, damaged frames, and background noise, rendering them unreliable. Our solution take the video as input split the video based on the motion that is send to the Model which trained Scale invarient feature extraction(same photo of object from diffrent devices may not show the same image they show different view of same object so model trained on same patch to reduce the parameter and beter generalisation) to enhance the video.
