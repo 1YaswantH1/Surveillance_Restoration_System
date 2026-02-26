@@ -1,3 +1,6 @@
+## System Architecture
+
+![System Architecture](Execution_Workflow.png)
 # Camera Recorder Application with Human Detection
 
 This Python application allows you to record video from your computer's camera and save it as an MP4 file. It utilizes OpenCV library and YOLO (You Only Look Once) object detection algorithm for human detection.
