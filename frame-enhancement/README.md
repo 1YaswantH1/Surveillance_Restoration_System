@@ -3,7 +3,7 @@
 
 #### 1.Aim
 
- Aim - To make any image a professional-grade photo/camera
+ Aim - To make any make the footage enhanced by removing noise and enhancing the the footage through GAN models 
 
 
 #### 2. Prerequisites
@@ -13,7 +13,7 @@
 - Nvidia GPU(optional-For faster outputs)
 
 
-#### 3. First steps
+#### 3. If you want to use this locally 
 
 - Download the pre-trained [VGG-19 model](https://drive.google.com/drive/folders/1AQt-5a952dJH9kci-YMLkA3beApey6C8?usp=drive_link) and put it into `vgg_pretrained/` folder
 <br/>
