@@ -1,7 +1,7 @@
 ## System Architecture
 
 <p align="center">
-  <img src="Execution_Workflow.png" width="700" height ="70%" >
+  <img src="Execution_Workflow.png" width="80% >
 </p> 
 # Camera Recorder Application with Human Detection
 
