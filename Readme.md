@@ -4,10 +4,10 @@
 ## Surveillance Footage Enhancement Results
 
 ### Before Enhancement
-[▶️ Watch Before Enhancement](Results/Before_enhancing.mp4)
+[Watch Before Enhancement](https://youtu.be/a-a-rn-Ys3c)
 
 ### After Enhancement(little bit compresed for github)
-[▶️ Watch After Enhancement](Results/After_enhancing.mp4)
+[Watch After Enhancement](https://youtu.be/qb4xUp7SAjk)
 ## Abstract -
 
 Surveillance videos are critical for forensic investigations but often suffer from quality issues such as blur, low lighting, damaged frames, and background noise, rendering them unreliable. Our solution take the video as input split the video based on the motion that is send to the Model which trained Scale invarient feature extraction(same photo of object from diffrent devices may not show the same image they show different view of same object so model trained on same patch to reduce the parameter and beter generalisation) to enhance the video.
