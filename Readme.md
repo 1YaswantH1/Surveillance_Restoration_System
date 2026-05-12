@@ -6,14 +6,14 @@
 <td align="center">
 
 <b>Before Enhancement</b><br>
-<a href="[https://youtu.be/a-a-rn-Ys3c](https://youtu.be/u9-9QtOIgAE?si=ga0K9s6PPQOoybmu)">
+<a href="https://www.youtube.com/watch?v=u9-9QtOIgAE">
 </a>
 
 </td>
 <td align="center">
 
 <b>After Enhancement</b><br>
-<a href="[https://youtu.be/qb4xUp7SAjk](https://www.youtube.com/watch?v=8r38UFpw-aA)">
+<a href="https://www.youtube.com/watch?v=8r38UFpw-aA">
 
 </a>
 
