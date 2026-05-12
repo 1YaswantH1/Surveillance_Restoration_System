@@ -1,5 +1,26 @@
 # Smart Surveillance Restoration System
 
+## Surveillance Restoration Results
+<table>
+<tr>
+<td align="center">
+
+<b>Before Enhancement</b><br>
+<a href="[https://youtu.be/a-a-rn-Ys3c](https://youtu.be/u9-9QtOIgAE?si=ga0K9s6PPQOoybmu)">
+</a>
+
+</td>
+<td align="center">
+
+<b>After Enhancement</b><br>
+<a href="[https://youtu.be/qb4xUp7SAjk](https://www.youtube.com/watch?v=8r38UFpw-aA)">
+
+</a>
+
+</td>
+</tr>
+</table> 
+
 ## Aim - Enhances the vedio footage quality,changes black and white footage to color footage
 
 ## Instruction to use (Setup)-
