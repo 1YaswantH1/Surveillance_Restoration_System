@@ -7,7 +7,7 @@
 
 <b>Before Enhancement</b><br>
 <a href="https://www.youtube.com/watch?v=u9-9QtOIgAE">
-<img src="./beforev2-enhance-thumbnail.png" width="400">
+<img src="./Results/beforev2-enhance-thumbnail.png" width="400">
 </a>
 
 </td>
@@ -16,7 +16,7 @@
 
 <b>After Enhancement</b><br>
 <a href="https://www.youtube.com/watch?v=8r38UFpw-aA">
-<img src="./afterv2-enhance-thumbnail.png" width="400">
+<img src="./Results/afterv2-enhance-thumbnail.png" width="400">
 </a>
 
 </td>
