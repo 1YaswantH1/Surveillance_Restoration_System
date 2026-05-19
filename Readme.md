@@ -7,7 +7,7 @@
 
 <b>Before Enhancement</b><br>
 <a href="https://www.youtube.com/watch?v=u9-9QtOIgAE">
-<img src="./Results/beforev2-enhance-thumbnail.png" width="400">
+<img src="./Results/beforev2-enhance-thumbanail.png" width="400">
 </a>
 
 </td>
