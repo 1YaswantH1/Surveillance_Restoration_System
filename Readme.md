@@ -7,7 +7,7 @@
 
 <b>Before Enhancement</b><br>
 <a href="https://www.youtube.com/watch?v=u9-9QtOIgAE">
-<img src="https://i9.ytimg.com/vi_webp/u9-9QtOIgAE/mqdefault.webp?sqp=CJTfi9AG&rs=AOn4CLAl-Mhyob2OHrY60oU_VKiHDrgaFg" width="400">
+<img src="./beforev2-enhance-thumbnail.png" width="400">
 </a>
 
 </td>
@@ -16,7 +16,7 @@
 
 <b>After Enhancement</b><br>
 <a href="https://www.youtube.com/watch?v=8r38UFpw-aA">
-<img src="https://i9.ytimg.com/vi_webp/8r38UFpw-aA/mqdefault.webp?sqp=CMDhi9AG&rs=AOn4CLCDCHJ4KQMx4t5p8tpwUJpkA2V_Cw" width="400">
+<img src="./afterv2-enhance-thumbnail.png" width="400">
 </a>
 
 </td>
