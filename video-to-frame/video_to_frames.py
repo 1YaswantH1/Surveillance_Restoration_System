@@ -81,17 +81,13 @@ def video_to_frames(video_path, max_frames=200, skip_first=5, rotate=None):
 
 
 if __name__ == '__main__':
-    ### parse arguments
     parser = argparse.ArgumentParser()
     parser.add_argument('--video_path', type=str, help='path to video', default='')
-    # какой по счёту кадр брать. Если поставить 5, то будет брать каждый пятый кадр
     parser.add_argument('--skip_first', type=int, help='how much frames to skip', default=0)
     parser.add_argument('--rotate', type=int,
                         help='rotate : None - no rotation, 0 - clockwise, 1 - counterclockwise',
                         default=None)
 
     args = parser.parse_args()
-
-    # skip_first=args.skip_first
     video_to_frames(args.video_path, max_frames=200, skip_first=args.skip_first, rotate=args.rotate)
     # video_to_frames(args.video_path, args.folder_to_save, max_frames = 200, skip_first=5,rotate=None)
