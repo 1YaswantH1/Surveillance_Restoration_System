@@ -22,7 +22,8 @@
 </td>
 </tr>
 </table>
-## Aim - Enhances the vedio footage quality,changes black and white footage to color footage
+
+# Aim - Create an computationally efficient surveillance video enhancement that works based on motion detection and enhances video only in areas of interest rather than enhancing each frame.
 
 ## Instruction to use (Setup)-
 
