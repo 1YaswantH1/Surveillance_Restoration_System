@@ -23,7 +23,8 @@
 </tr>
 </table>
 
-# Aim - Create an computationally efficient surveillance video enhancement that works based on motion detection and enhances video only in areas of interest rather than enhancing each frame.
+# Aim - 
+Create an computationally efficient surveillance video enhancement that works based on motion detection and enhances video only in areas of interest rather than enhancing each frame.
 
 ## Instruction to use (Setup)-
 
